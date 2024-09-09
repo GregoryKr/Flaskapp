@@ -1,0 +1,6 @@
+2024-03-13 20:31:40,745 — project.__init__ — WARNING — the user with id: 1 deleted
+2024-03-13 20:31:40,868 — project.__init__ — INFO — new user created
+2024-03-13 20:31:40,910 — project.__init__ — WARNING — the user with id: 1 updated
+2024-03-13 20:40:40,255 — project.__init__ — WARNING — the user with id: 1 deleted
+2024-03-13 20:40:40,375 — project.__init__ — INFO — new user created
+2024-03-13 20:40:40,421 — project.__init__ — WARNING — the user with id: 1 updated

@@ -1,0 +1,5 @@
+2024-02-22 08:23:05,490 — project.__init__ — ERROR — user not created, 500 error
+2024-02-22 08:23:41,577 — project.__init__ — ERROR — user not created, 500 error
+2024-02-22 08:24:21,787 — project.__init__ — INFO — address: 1234578@mail.ru, id: None, person_id: None
+2024-02-22 08:24:49,713 — project.__init__ — INFO — new address added to user with id 1
+2024-02-22 08:25:03,284 — project.__init__ — WARNING — all addresses of the user with id: 1 deleted
